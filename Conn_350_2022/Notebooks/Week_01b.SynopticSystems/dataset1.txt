@@ -1,0 +1,7 @@
+# Pressure (hPa) Maximum Wind Speed (km/hr)
+999 75
+985 86
+992 58
+998 44
+1010 54
+984 82
