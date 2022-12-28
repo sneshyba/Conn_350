@@ -1,2 +1,2 @@
 # Conn_350
- Modeling Earth's Climate
+ Python code and lectures for Modeling Earth's Climate
